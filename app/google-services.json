@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055977249020",
+    "firebase_url": "https://shop-a5185.firebaseio.com",
+    "project_id": "shop-a5185",
+    "storage_bucket": "shop-a5185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055977249020:android:df3146df8f985faa",
+        "android_client_info": {
+          "package_name": "com.tom.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055977249020-crf33ebvfm46qs5j5toc9qrd3oq9lv2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tom.shop",
+            "certificate_hash": "52ef03be05f064b4b379d4e908e17e5bffc30007"
+          }
+        },
+        {
+          "client_id": "1055977249020-5farglh54je1orf21p5bmegdr1hrauc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgHQrz6P4i2B0f3cDHcuuPhlN0TkNDS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055977249020-5farglh54je1orf21p5bmegdr1hrauc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
